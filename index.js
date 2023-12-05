@@ -1,4 +1,4 @@
-import "./index.css";
+// import "./index.css";
 import moment from "moment";
 
 const form = document.querySelector(".donate-form");
